@@ -1,0 +1,26 @@
+## generic files to ignore
+*~
+*.DS_Store
+*.swp
+*.out
+out/
+coding-standard/
+bin
+
+# intellij
+macros
+*.eml
+*.iml
+*.ipr
+*.iws
+.*.sw?
+.idea
+.stage
+
+# Gradle
+build/
+.gradle/
+
+# Terraform
+.terraform
+tfplan
